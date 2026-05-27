@@ -16,6 +16,3 @@
 
 [![ilamy-calendar ⭐ 284](https://www.shieldcn.dev/github/stars/kcsujeet/ilamy-calendar.svg?variant=secondary&size=xs)](https://github.com/kcsujeet/ilamy-calendar) [![autocomplete-timepicker ⭐ 2](https://www.shieldcn.dev/github/stars/kcsujeet/autocomplete-timepicker.svg?variant=secondary&size=xs)](https://github.com/kcsujeet/autocomplete-timepicker) [![portfolio ⭐ 2](https://www.shieldcn.dev/github/stars/kcsujeet/portfolio.svg?variant=secondary&size=xs)](https://github.com/kcsujeet/portfolio) [![testoise ⭐ 1](https://www.shieldcn.dev/github/stars/kcsujeet/testoise.svg?variant=secondary&size=xs)](https://github.com/kcsujeet/testoise) [![my-react-clone ⭐ 1](https://www.shieldcn.dev/github/stars/kcsujeet/my-react-clone.svg?variant=secondary&size=xs)](https://github.com/kcsujeet/my-react-clone)
 
----
-
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
