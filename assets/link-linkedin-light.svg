@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="68" viewBox="0 0 80 68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t">
+<svg xmlns="http://www.w3.org/2000/svg" width="95" height="68" viewBox="0 0 95 68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t">
   <title id="t">LinkedIn</title>
-  <text x="80" y="61" font-size="14" text-anchor="end" fill="#0969da">LinkedIn</text>
+  <rect x="8" y="44" width="87" height="24" rx="4" fill="#0a66c2"/>
+  <g transform="translate(16 50) scale(0.5)" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></g>
+  <text x="34" y="60" font-size="12" font-weight="500" fill="#ffffff">LinkedIn</text>
 </svg>

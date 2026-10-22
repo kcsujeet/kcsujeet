@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212" height="192" viewBox="0 0 212 192" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t">
+  <title id="t">Collage Pen: A collage maker that feels like a desktop app.</title>
+  
+  <line x1="0" y1="88" x2="93" y2="88" stroke="#e0a43a" stroke-width="10" stroke-linecap="butt"/>
+  <line x1="119" y1="88" x2="212" y2="88" stroke="#e0a43a" stroke-width="10" stroke-linecap="butt"/>
+  <circle cx="106" cy="88" r="10" fill="none" stroke="#e6edf3" stroke-width="6"/>
+  <svg x="49" y="126" width="18" height="18" viewBox="0 0 24 24">
+  
+  <circle cx="12" cy="12" r="12" fill="#0a0a0a"/>
+  
+  
+  <circle cx="12" cy="12" r="10.5" stroke="#ffffff" stroke-width="1.75" stroke-opacity="0.8" />
+
+  
+  <path d="M12 5V19" stroke="#ffffff" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" opacity="0.3" />
+  <path d="M5 12H19" stroke="#ffffff" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" opacity="0.3" />
+  
+  
+  <path d="M12 7.25L15.5 10.75V14.75L12 16.75L8.5 14.75V10.75L12 7.25Z" fill="#ffffff" fill-opacity="0.15" stroke="#ffffff" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
+  
+  
+  <path d="M12 11.5V13.5" stroke="#ffffff" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" opacity="0.6" />
+  
+  
+  <circle cx="12" cy="12" r="0.6" fill="#ffffff" />
+</svg>
+  <text x="73" y="140" font-size="16" font-weight="600" fill="#e6edf3">Collage Pen</text>
+  <text x="106" y="162" font-size="12" text-anchor="middle" fill="#9198a1">A collage maker that feels</text>
+  <text x="106" y="179" font-size="12" text-anchor="middle" fill="#9198a1">like a desktop app.</text>
+</svg>
