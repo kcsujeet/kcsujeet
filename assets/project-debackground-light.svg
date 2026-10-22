@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="133" height="24" viewBox="0 0 133 24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t">
+<svg xmlns="http://www.w3.org/2000/svg" width="133" height="30" viewBox="0 0 133 30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t">
   <title id="t">Debackground</title>
-  <rect width="133" height="24" rx="4" fill="#818b98" fill-opacity="0.15"/>
-  <svg x="8" y="5" width="14" height="14" viewBox="0 0 32 32">
+  <rect y="3" width="133" height="24" rx="4" fill="#818b98" fill-opacity="0.15"/>
+  <svg x="8" y="8" width="14" height="14" viewBox="0 0 32 32">
   <defs>
     <mask id="gap-mask">
       <rect x="0" y="0" width="32" height="32" fill="white"/>
@@ -15,5 +15,5 @@
   
   <rect x="12" y="2" width="18" height="18" rx="4" fill="#477ed8"/>
 </svg>
-  <text x="76.5" y="16.5" font-size="13" font-weight="500" text-anchor="middle" fill="#1f2328">Debackground</text>
+  <text x="76.5" y="19.5" font-size="13" font-weight="500" text-anchor="middle" fill="#1f2328">Debackground</text>
 </svg>
