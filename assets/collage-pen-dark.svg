@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="132" viewBox="0 0 440 132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t">
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="100" viewBox="0 0 440 100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t">
   <title id="t">Collage Pen: A collage maker that feels like a desktop app.</title>
-  <rect x="0.5" y="0.5" width="439" height="131" rx="6" fill="#0d1117" stroke="#3d444d"/>
-  <g transform="translate(16 18) scale(0.6667)" fill="none" stroke="#9198a1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></g>
-  <text x="40" y="30" font-size="15" font-weight="600" fill="#4493f8">Collage Pen</text>
-  <rect x="383.5" y="16.5" width="40" height="19" rx="9.5" fill="none" stroke="#3d444d"/>
-  <text x="403.5" y="30" font-size="12" text-anchor="middle" fill="#9198a1">Live</text>
-  <text x="16" y="62" font-size="14" fill="#9198a1">A collage maker that feels like a desktop app.</text>
-  <text x="16" y="114" font-size="12" fill="#9198a1">Canvas · React</text>
-  <text x="424" y="114" font-size="12" text-anchor="end" fill="#9198a1">collagepen.com</text>
+  <rect x="0.5" y="0.5" width="439" height="99" rx="6" fill="none" stroke="#3d444d"/>
+  <g transform="translate(16 16) scale(0.6667)" fill="none" stroke="#9198a1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></g>
+  <text x="40" y="29" font-size="15" font-weight="600" fill="#4493f8">Collage Pen</text>
+  <rect x="383.5" y="14.5" width="40" height="19" rx="9.5" fill="none" stroke="#3d444d"/>
+  <text x="403.5" y="28" font-size="12" text-anchor="middle" fill="#9198a1">Live</text>
+  <text x="16" y="58" font-size="14" fill="#9198a1">A collage maker that feels like a desktop app.</text>
+  <text x="16" y="84" font-size="12" fill="#9198a1">Canvas · React</text>
+  <text x="424" y="84" font-size="12" text-anchor="end" fill="#9198a1">collagepen.com</text>
 </svg>
